@@ -1,2 +1,2 @@
 # Micro-Services
-Sample Microservices Proect
+Sample Microservices Project that demonstrates Microservices
